@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello Word 🌎
 
-<!--
-**GabrielAugustoCarvalho/GabrielAugustoCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem Vindo ao meu Git!! Me chamo Gabriel augusto de Carvalho e aqui compartilho um pouco dos meus estudos e atividades que realizo no dia a dia como desenvolvedor.
+trabalho com projetos em **Php Javascript, html, css ** entre outros estou sempre em busca do aprender algo novo.
 
-Here are some ideas to get you started:
+#### Não deixe que os seus medos tomem o lugar dos seus sonhos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quem sou eu?
+- Gabriel Augusto de Carvalho 20 Anos
+- 📍From PR Brasil 
+- 👨‍💻 Formado em Sistemas Para Internet 
+- 👨‍💻Cursando Pós Graduação WebDev Desenvolvimento de Aplicações para Web e Dispositivos.
+- https://www.linkedin.com/in/gabriel-carvalho-00b601174/
