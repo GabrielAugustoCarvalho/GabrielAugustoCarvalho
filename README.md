@@ -1,6 +1,6 @@
-# Salve! Sou Gabriel A. Carvalho.
+# Olá, me chamo Gabriel Augusto de Carvalho.
 
-Seja bem Vindo ao meu Git!! Me chamo Gabriel augusto de Carvalho e aqui compartilho um pouco dos meus estudos e atividades que realizo no dia a dia como desenvolvedor👨‍💻
+Seja bem Vindo ao meu Git!! Me chamo Gabriel e aqui compartilho um pouco dos meus estudos e atividades que realizo no dia a dia como desenvolvedor👨‍💻
 
 ### Quem sou eu?
 - Gabriel Augusto de Carvalho 20 Anos
