@@ -3,8 +3,9 @@
 Seja bem Vindo ao meu Git!! Me chamo Gabriel e aqui compartilho um pouco dos meus estudos e atividades que realizo no dia a dia como desenvolvedor👨‍💻
 
 ### Quem sou eu?
-- Gabriel Augusto de Carvalho 20 Anos
-- 👨‍💻 Formado em Sistemas Para Internet 
+- Gabriel Augusto de Carvalho 21 Anos
+- 👨‍💻 Formado em Sistemas Para Internet
+- Cursando Engenharia de Software
 
  <div>
   <a href="https://github.com/GabrielAugustoCarvalho">
